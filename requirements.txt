@@ -1,3 +1,6 @@
+google-cloud-bigquery==2.18.0
 matplotlib==3.5.2
 notebook==6.3.0
+pandas==1.2.4
+pandas-gbq==0.17.5
 pyspark==3.1.2
